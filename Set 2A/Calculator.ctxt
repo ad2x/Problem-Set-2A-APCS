@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=a\ b\ c
+comment1.target=double\ qdrformp(double,\ double,\ double)
+comment2.params=a\ b\ c
+comment2.target=double\ qdrformn(double,\ double,\ double)
+comment3.params=x1\ x2\ y1\ y2
+comment3.target=double\ slope(double,\ double,\ double,\ double)
+comment4.params=x1\ x2
+comment4.target=double\ midpointx(double,\ double)
+comment5.params=y1\ y2
+comment5.target=double\ midpointy(double,\ double)
+comment6.params=noterms\ nthterm\ fterm
+comment6.target=double\ arithser(double,\ double,\ double)
+comment7.params=noterms\ fterm\ coratio
+comment7.target=double\ fgeoser(double,\ double,\ double)
+numComments=8
